@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : G-346QDY1Q7Z
 
@@ -84,11 +84,11 @@ author:
   name             : "Justin D. Tubbs"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Behavioural Genetics & Bioinformatics"
-  location         : "Hong Kong"
+  location         : #"Hong Kong"
   employer         : "The University of Hong Kong"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Tubbs+Justin+D"
   googlescholar    : "https://scholar.google.com/citations?user=o7kp79QAAAAJ&hl=en&oi=ao"
-  email            : "tubbsjd [at] gmail [dot] com"
+  email            : "tubbsjd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
