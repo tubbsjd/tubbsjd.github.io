@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar [profile](https://scholar.google.com/citations?user=o7kp79QAAAAJ&hl=en&oi=ao).
+_You can also find my articles on my Google Scholar [profile](https://scholar.google.com/citations?user=o7kp79QAAAAJ&hl=en&oi=ao)._
 
 **Tubbs JD***, Hwang LD*, Luong J, Evans DM, Sham PC (Accepted). Modeling Parent-Specific Genetic Nurture in Families with Missing Parental Genotypes: Application to Birthweight and BMI. _Behavior Genetics._
 
