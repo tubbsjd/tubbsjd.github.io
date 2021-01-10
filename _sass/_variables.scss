@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : system, -apple-system, "New York", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+//$sans-serif                 : system, -apple-system, "New York", ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 $goog                       : 'Montserrat', sans-serif;
 
@@ -32,6 +32,7 @@ $garamond                   : Garamond, serif;
 $global-font-family         : 'Montserrat', sans-serif;
 $header-font-family         : 'Montserrat', sans-serif;
 $caption-font-family        : $serif;
+$sans-serif                 : 'Montserrat', sans-serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
