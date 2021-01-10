@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="images/tubbsjd_CV.pdf" type="application/pdf">
-        <embed src="images/tubbsjd_CV.pdf" type="application/pdf" />
-</object>
+You can also download a copy [here](https://tubbsjd.github.io/images/tubbsjd_CV.pdf).
+
+<embed src="{{ site.baseurl }}/images/tubbsjd_CV.pdf" width="650" height="800" type='application/pdf'>
+{% include base_path %}
+
