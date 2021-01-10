@@ -9,6 +9,8 @@
 locale                   : "en-US"
 title                    : "Justin D. Tubbs"
 title_separator          : "-"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air"
 name                     : &name "Justin D. Tubbs"
 description              : &description "Personal Website"
 url                      : https://tubbsjd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
