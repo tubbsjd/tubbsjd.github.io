@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Summary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 Welcome to my personal webiste! I am a PhD candidate considering opportunities in both academia and industry after my thesis defence in 2022. This website serves as an online version of my CV to share information about my work, education, and experience. Please have a look around and feel free to contact me if you are interested in collaboration!
-
-Summary
-======
 
 I am currently studying for a PhD in Behavioural Genetics and Bioinformatics at the University of Hong Kong under the guidance of [Pak C. Sham](https://shamlab.github.io/). Generally, I am interested in developing and applying statistical and machine learning methods to big data to gain insight into the influence of our genes and environment on complex diseases, especially mental health, but my projects span a range of traits and methodologies.
 
