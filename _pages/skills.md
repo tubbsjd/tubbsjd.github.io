@@ -23,7 +23,7 @@ As demonstrated by my research output, I have cultivated skills in data collecti
 
 ### Languages
 
-After a summer introductory course in Mandarin Chiense, I have been working towards fluency in Chinese with self-study and immersion.
+After a summer introductory course in Mandarin Chinese, I have been working towards fluency in Chinese with self-study and immersion.
 
 - English (native)
 - Mandarin Chinese (intermediate)
